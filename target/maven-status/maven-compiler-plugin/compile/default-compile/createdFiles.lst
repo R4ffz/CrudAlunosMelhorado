@@ -1,0 +1,5 @@
+br\com\projeto\model\Aluno.class
+br\com\projeto\dao\IAlunoDAO.class
+br\com\projeto\principal\Main.class
+br\com\projeto\dao\AlunoDAO.class
+br\com\projeto\config\ConnectionFactory.class
